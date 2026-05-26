@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Under the dashboard light, your skin is glowing
+> This late-night slow burn just keeps on growing
+> Your hand on my thigh, the tension is showing
+> Always my true love, and the passion is flowing
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
